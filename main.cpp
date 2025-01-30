@@ -3,18 +3,18 @@
 using namespace std;
 // TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-int main() {
+// int main() {
     // auto lang = "C++";
     // std::cout << "Hello and welcome to " << lang << "!\n";
 
     // Task 1
-    string name;
-    int age;
-    cout << "Enter your name: " << endl;
-    cin>>name;
-    cout << "Enter your age: ";
-    cin >> age;
-    std::cout << "Your name:" << name << " Your age: " << age << std::endl;
+    // string name;
+    // int age;
+    // cout << "Enter your name: " << endl;
+    // cin>>name;
+    // cout << "Enter your age: ";
+    // cin >> age;
+    // std::cout << "Your name:" << name << " Your age: " << age << std::endl;
 
     // Task 2
     // int temp = 0;
@@ -57,5 +57,5 @@ int main() {
 
 
 
-    return 0;
-}
+//     return 0;
+// }
