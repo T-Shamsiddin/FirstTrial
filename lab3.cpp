@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+// int main() {
     // Problem 1
     // int numbers[5];
     // int sum = 0;
@@ -184,12 +184,12 @@ int main() {
     // cout << " Simple interest: " << float((p_amount*rate_of_int*time)/100) << endl;
 
     // Problem 20
-    int p_amount, rate_of_int;
-    cout << "Enter annual rate of interest: ";
-    cin >> rate_of_int;
-    cout << "Enter principal amount: ";
-    cin >> p_amount;
-    float A = (1+float(rate_of_int*0.01))*(1 + float(rate_of_int*0.01))*p_amount;
-    cout << "Interest after 2 years: " << A-p_amount << endl;
-    cout << "Total amount after 2 years: " << (A-p_amount)+p_amount << endl;
-}
+//     int p_amount, rate_of_int;
+//     cout << "Enter annual rate of interest: ";
+//     cin >> rate_of_int;
+//     cout << "Enter principal amount: ";
+//     cin >> p_amount;
+//     float A = (1+float(rate_of_int*0.01))*(1 + float(rate_of_int*0.01))*p_amount;
+//     cout << "Interest after 2 years: " << A-p_amount << endl;
+//     cout << "Total amount after 2 years: " << (A-p_amount)+p_amount << endl;
+// }
