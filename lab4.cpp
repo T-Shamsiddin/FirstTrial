@@ -2,7 +2,6 @@
 // Created by Shamsiddin Tohirov on 06/02/25.
 //
 #include <iostream>
-#include <cctype>
 #include <cmath>
 using namespace std;
 
