@@ -5,7 +5,7 @@
 #include <cmath>
 using namespace std;
 
-int main() {
+// int main() {
     //Problem 1
     // int n = 0;
     // cout << "Enter number: ";
@@ -228,24 +228,24 @@ int main() {
     // }
 
     //Problem 17
-    double gpa;
-    cout << "Enter GPA (0-4.5): ";
-    cin >> gpa;
-
-    int category = (gpa >= 4.0) ? 4 : (gpa >= 3.5) ? 3 : (gpa >= 3.0) ? 2 : 1;
-
-    switch (category) {
-        case 4:
-            cout << "Scholarship: 80%" << endl;
-            break;
-        case 3:
-            cout << "Scholarship: 60%" << endl;
-            break;
-        case 2:
-            cout << "Scholarship: 50%" << endl;
-            break;
-        default:
-            cout << "No scholarship" << endl;
-            break;
-    }
-}
+//     double gpa;
+//     cout << "Enter GPA (0-4.5): ";
+//     cin >> gpa;
+//
+//     int category = (gpa >= 4.0) ? 4 : (gpa >= 3.5) ? 3 : (gpa >= 3.0) ? 2 : 1;
+//
+//     switch (category) {
+//         case 4:
+//             cout << "Scholarship: 80%" << endl;
+//             break;
+//         case 3:
+//             cout << "Scholarship: 60%" << endl;
+//             break;
+//         case 2:
+//             cout << "Scholarship: 50%" << endl;
+//             break;
+//         default:
+//             cout << "No scholarship" << endl;
+//             break;
+//     }
+// }
