@@ -10,8 +10,8 @@ int findGCD(int a, int b) {
         return b;
     return findGCD(b % a, a);
 }
-
-int main() {
+//
+// int main() {
     // Task 1
     // int sum1=0;
     // for (int i=0; i<100; i++) {
@@ -82,17 +82,17 @@ int main() {
     // }
 
     // Task 6
-    int a, b;
-    cout << "Enter the first number: ";
-    cin >> a;
-    cout << "Enter the second number: ";
-    cin >> b;
-    int g = findGCD(a, b);
-    cout << g << endl;
-
-
-
-
-    return 0;
-}
+//     int a, b;
+//     cout << "Enter the first number: ";
+//     cin >> a;
+//     cout << "Enter the second number: ";
+//     cin >> b;
+//     int g = findGCD(a, b);
+//     cout << g << endl;
+//
+//
+//
+//
+//     return 0;
+// }
 
