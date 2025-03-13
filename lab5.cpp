@@ -3,7 +3,7 @@
 //
 #include <iostream>
 using namespace std;
-int main() {
+// int main() {
     //Problem 1.1
     // for (int i = 1; i <= 10; i++) {
     //     cout << i << endl;
@@ -319,4 +319,4 @@ int main() {
     //     n/=10;
     // }
     // cout << decimal << endl;
-}
+// }
