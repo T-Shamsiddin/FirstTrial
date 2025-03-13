@@ -225,6 +225,30 @@ lab6.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab6.cpp.s
 .PHONY : lab6.cpp.s
 
+lab9.o: lab9.cpp.o
+.PHONY : lab9.o
+
+# target to build an object file
+lab9.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab9.cpp.o
+.PHONY : lab9.cpp.o
+
+lab9.i: lab9.cpp.i
+.PHONY : lab9.i
+
+# target to preprocess a source file
+lab9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab9.cpp.i
+.PHONY : lab9.cpp.i
+
+lab9.s: lab9.cpp.s
+.PHONY : lab9.s
+
+# target to generate assembly for a file
+lab9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab9.cpp.s
+.PHONY : lab9.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -270,6 +294,9 @@ help:
 	@echo "... lab6.o"
 	@echo "... lab6.i"
 	@echo "... lab6.s"
+	@echo "... lab9.o"
+	@echo "... lab9.i"
+	@echo "... lab9.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -15,6 +15,7 @@ int power(int a, int b);
 int reverseDigits(int n, int result);
 int isPolindrome(int n, int reverse);
 int isPrime(int n, int check);
+void hanoi(int n, char from, char to, char aux);
 
 int main() {
     // task 1
@@ -75,8 +76,14 @@ int main() {
     // }
 
     // task 11
-    int n;
-    cin >> n;
+    // int n;
+    // cin >> n;
+    // isPrime(n, 2);
+
+    // task 12
+    // int n;
+    // cin >> n;
+    // hanoi(n, 'A', 'B', 'C');
 }
 
 int task_one(int a, int b) {
@@ -154,5 +161,24 @@ int isPolindrome(int n, int digits) {
 }
 
 int isPrime(int n, int check) {
+    if (abs(n)==2) {
+        cout << "true";
+        return 0;
+    }
+    if (abs(n)%check==0 && check<=sqrt(abs(n))) {
+        cout << "false";
+        return 0;
+    }
+    if (abs(n)%check!=0 && check==int(sqrt(abs(n)))+1) {
+        cout << "true";
+        return 0;
+    }
+    return isPrime(n, check+1);
+}
 
+void hanoi(int n, char from, char to, char aux) {
+    if (n==0) return;
+    hanoi(n-1, from, aux, to);
+    cout << n << " - from " <<from << " to " << to << endl;
+    hanoi(n-1, aux, to, from);
 }
