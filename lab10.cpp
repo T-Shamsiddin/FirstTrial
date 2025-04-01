@@ -31,9 +31,27 @@ bool strictlyEqual(const int list1[], const int list2[], int size) {
 }
 
 void reverseArray(int arr[], int start, int end) {
-    int a = arr[end];
-    for (int i = start; i < end-1; i++) {
+    // first option
+    // int a[end+1];
+    // int j = 0;
+    // for (int i = end; i >= start; i--) {
+    //     a[j] = arr[i];
+    //     j++;
+    // }
+    // for (int i = 0; i <= end; i++) {
+    //     cout << a[i] << " ";
+    // }
 
+    // second option
+    int i = 0;
+    while (i<(end+1)/2) {
+        int temp = arr[i];
+        arr[i] = arr[end-i];
+        arr[end-i] = temp;
+        i++;
+    }
+    for (int i = start; i <= end; i++) {
+        cout << arr[i] << " ";
     }
 }
 
@@ -153,6 +171,26 @@ int main() {
     // }
 
     // task 9
+    // int n;
+    // cin >> n;
+    // int a[n];
+    // for (int i = 0; i < n; i++) {
+    //     cin >> a[i];
+    // }
+    // reverseArray(a, 0, n-1);
 
-
+    // task 10
+    // int n;
+    // cin >> n;
+    // int a[n];
+    // for (int i = 0; i < n; i++) {
+    //     cin >> a[i];
+    // }
+    // for (int i = 0; i < n-1; i++) {
+    //     if (a[i] > a[i+1]) {
+    //         cout << "No";
+    //         return 0;
+    //     }
+    // }
+    // cout << "Yes" << endl;
 }
