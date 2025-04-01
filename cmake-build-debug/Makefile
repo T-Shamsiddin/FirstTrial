@@ -129,6 +129,30 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+lab10.o: lab10.cpp.o
+.PHONY : lab10.o
+
+# target to build an object file
+lab10.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab10.cpp.o
+.PHONY : lab10.cpp.o
+
+lab10.i: lab10.cpp.i
+.PHONY : lab10.i
+
+# target to preprocess a source file
+lab10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab10.cpp.i
+.PHONY : lab10.cpp.i
+
+lab10.s: lab10.cpp.s
+.PHONY : lab10.s
+
+# target to generate assembly for a file
+lab10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab10.cpp.s
+.PHONY : lab10.cpp.s
+
 lab3.o: lab3.cpp.o
 .PHONY : lab3.o
 
@@ -282,6 +306,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled"
+	@echo "... lab10.o"
+	@echo "... lab10.i"
+	@echo "... lab10.s"
 	@echo "... lab3.o"
 	@echo "... lab3.i"
 	@echo "... lab3.s"

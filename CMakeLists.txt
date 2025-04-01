@@ -8,4 +8,5 @@ add_executable(untitled main.cpp
         lab4.cpp
         lab5.cpp
         lab6.cpp
-        lab9.cpp)
+        lab9.cpp
+        lab10.cpp)

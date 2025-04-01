@@ -73,85 +73,99 @@ CMakeFiles/untitled.dir/main.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/main.cpp.o: /Users/sh.tohirov/CLionProjects/FirstTrial/main.cpp
 CMakeFiles/untitled.dir/main.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sh.tohirov/CLionProjects/FirstTrial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/main.cpp.o -MF CMakeFiles/untitled.dir/main.cpp.o.d -o CMakeFiles/untitled.dir/main.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/main.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/main.cpp.o -MF CMakeFiles/untitled.dir/main.cpp.o.d -o CMakeFiles/untitled.dir/main.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/main.cpp
 
 CMakeFiles/untitled.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/main.cpp > CMakeFiles/untitled.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/main.cpp > CMakeFiles/untitled.dir/main.cpp.i
 
 CMakeFiles/untitled.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/main.cpp -o CMakeFiles/untitled.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/main.cpp -o CMakeFiles/untitled.dir/main.cpp.s
 
 CMakeFiles/untitled.dir/lab3.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/lab3.cpp.o: /Users/sh.tohirov/CLionProjects/FirstTrial/lab3.cpp
 CMakeFiles/untitled.dir/lab3.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sh.tohirov/CLionProjects/FirstTrial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/lab3.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab3.cpp.o -MF CMakeFiles/untitled.dir/lab3.cpp.o.d -o CMakeFiles/untitled.dir/lab3.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab3.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab3.cpp.o -MF CMakeFiles/untitled.dir/lab3.cpp.o.d -o CMakeFiles/untitled.dir/lab3.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab3.cpp
 
 CMakeFiles/untitled.dir/lab3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/lab3.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab3.cpp > CMakeFiles/untitled.dir/lab3.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab3.cpp > CMakeFiles/untitled.dir/lab3.cpp.i
 
 CMakeFiles/untitled.dir/lab3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/lab3.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab3.cpp -o CMakeFiles/untitled.dir/lab3.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab3.cpp -o CMakeFiles/untitled.dir/lab3.cpp.s
 
 CMakeFiles/untitled.dir/lab4.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/lab4.cpp.o: /Users/sh.tohirov/CLionProjects/FirstTrial/lab4.cpp
 CMakeFiles/untitled.dir/lab4.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sh.tohirov/CLionProjects/FirstTrial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/lab4.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab4.cpp.o -MF CMakeFiles/untitled.dir/lab4.cpp.o.d -o CMakeFiles/untitled.dir/lab4.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab4.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab4.cpp.o -MF CMakeFiles/untitled.dir/lab4.cpp.o.d -o CMakeFiles/untitled.dir/lab4.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab4.cpp
 
 CMakeFiles/untitled.dir/lab4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/lab4.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab4.cpp > CMakeFiles/untitled.dir/lab4.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab4.cpp > CMakeFiles/untitled.dir/lab4.cpp.i
 
 CMakeFiles/untitled.dir/lab4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/lab4.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab4.cpp -o CMakeFiles/untitled.dir/lab4.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab4.cpp -o CMakeFiles/untitled.dir/lab4.cpp.s
 
 CMakeFiles/untitled.dir/lab5.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/lab5.cpp.o: /Users/sh.tohirov/CLionProjects/FirstTrial/lab5.cpp
 CMakeFiles/untitled.dir/lab5.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sh.tohirov/CLionProjects/FirstTrial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/lab5.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab5.cpp.o -MF CMakeFiles/untitled.dir/lab5.cpp.o.d -o CMakeFiles/untitled.dir/lab5.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab5.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab5.cpp.o -MF CMakeFiles/untitled.dir/lab5.cpp.o.d -o CMakeFiles/untitled.dir/lab5.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab5.cpp
 
 CMakeFiles/untitled.dir/lab5.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/lab5.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab5.cpp > CMakeFiles/untitled.dir/lab5.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab5.cpp > CMakeFiles/untitled.dir/lab5.cpp.i
 
 CMakeFiles/untitled.dir/lab5.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/lab5.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab5.cpp -o CMakeFiles/untitled.dir/lab5.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab5.cpp -o CMakeFiles/untitled.dir/lab5.cpp.s
 
 CMakeFiles/untitled.dir/lab6.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/lab6.cpp.o: /Users/sh.tohirov/CLionProjects/FirstTrial/lab6.cpp
 CMakeFiles/untitled.dir/lab6.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sh.tohirov/CLionProjects/FirstTrial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/lab6.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab6.cpp.o -MF CMakeFiles/untitled.dir/lab6.cpp.o.d -o CMakeFiles/untitled.dir/lab6.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab6.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab6.cpp.o -MF CMakeFiles/untitled.dir/lab6.cpp.o.d -o CMakeFiles/untitled.dir/lab6.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab6.cpp
 
 CMakeFiles/untitled.dir/lab6.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/lab6.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab6.cpp > CMakeFiles/untitled.dir/lab6.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab6.cpp > CMakeFiles/untitled.dir/lab6.cpp.i
 
 CMakeFiles/untitled.dir/lab6.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/lab6.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab6.cpp -o CMakeFiles/untitled.dir/lab6.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab6.cpp -o CMakeFiles/untitled.dir/lab6.cpp.s
 
 CMakeFiles/untitled.dir/lab9.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/lab9.cpp.o: /Users/sh.tohirov/CLionProjects/FirstTrial/lab9.cpp
 CMakeFiles/untitled.dir/lab9.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sh.tohirov/CLionProjects/FirstTrial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled.dir/lab9.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab9.cpp.o -MF CMakeFiles/untitled.dir/lab9.cpp.o.d -o CMakeFiles/untitled.dir/lab9.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab9.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab9.cpp.o -MF CMakeFiles/untitled.dir/lab9.cpp.o.d -o CMakeFiles/untitled.dir/lab9.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab9.cpp
 
 CMakeFiles/untitled.dir/lab9.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/lab9.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab9.cpp > CMakeFiles/untitled.dir/lab9.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab9.cpp > CMakeFiles/untitled.dir/lab9.cpp.i
 
 CMakeFiles/untitled.dir/lab9.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/lab9.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab9.cpp -o CMakeFiles/untitled.dir/lab9.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab9.cpp -o CMakeFiles/untitled.dir/lab9.cpp.s
+
+CMakeFiles/untitled.dir/lab10.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/lab10.cpp.o: /Users/sh.tohirov/CLionProjects/FirstTrial/lab10.cpp
+CMakeFiles/untitled.dir/lab10.cpp.o: CMakeFiles/untitled.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/sh.tohirov/CLionProjects/FirstTrial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled.dir/lab10.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled.dir/lab10.cpp.o -MF CMakeFiles/untitled.dir/lab10.cpp.o.d -o CMakeFiles/untitled.dir/lab10.cpp.o -c /Users/sh.tohirov/CLionProjects/FirstTrial/lab10.cpp
+
+CMakeFiles/untitled.dir/lab10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/untitled.dir/lab10.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sh.tohirov/CLionProjects/FirstTrial/lab10.cpp > CMakeFiles/untitled.dir/lab10.cpp.i
+
+CMakeFiles/untitled.dir/lab10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/lab10.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sh.tohirov/CLionProjects/FirstTrial/lab10.cpp -o CMakeFiles/untitled.dir/lab10.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -160,7 +174,8 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/lab4.cpp.o" \
 "CMakeFiles/untitled.dir/lab5.cpp.o" \
 "CMakeFiles/untitled.dir/lab6.cpp.o" \
-"CMakeFiles/untitled.dir/lab9.cpp.o"
+"CMakeFiles/untitled.dir/lab9.cpp.o" \
+"CMakeFiles/untitled.dir/lab10.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -171,9 +186,10 @@ untitled: CMakeFiles/untitled.dir/lab4.cpp.o
 untitled: CMakeFiles/untitled.dir/lab5.cpp.o
 untitled: CMakeFiles/untitled.dir/lab6.cpp.o
 untitled: CMakeFiles/untitled.dir/lab9.cpp.o
+untitled: CMakeFiles/untitled.dir/lab10.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/sh.tohirov/CLionProjects/FirstTrial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/sh.tohirov/CLionProjects/FirstTrial/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

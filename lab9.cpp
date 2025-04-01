@@ -17,7 +17,7 @@ int isPolindrome(int n, int reverse);
 int isPrime(int n, int check);
 void hanoi(int n, char from, char to, char aux);
 
-int main() {
+// int main() {
     // task 1
     // int a, b;
     // cout << "Please enter two integers: ";
@@ -84,7 +84,7 @@ int main() {
     // int n;
     // cin >> n;
     // hanoi(n, 'A', 'B', 'C');
-}
+// }
 
 int task_one(int a, int b) {
     if (b==0) return 0;

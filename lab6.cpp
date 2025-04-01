@@ -28,14 +28,14 @@ void greet() {
 int maxNumber(int a, int b) {
     return (a > b) ? a : b;
 }
+// int factorial(int n) {
+//     int result = 1;
+//     for (int i = 2; i <= n; i++) {
+//         result *= i;
+//     }
+//     return result;
+// }
 
-int factorial(int n) {
-    int result = 1;
-    for (int i = 2; i <= n; i++) {
-        result *= i;
-    }
-    return result;
-}
 
 void rectangle(int width, int height) {
     for (int i = 0; i < height; i++) {
