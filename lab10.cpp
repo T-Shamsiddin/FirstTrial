@@ -55,7 +55,7 @@ void reverseArray(int arr[], int start, int end) {
     }
 }
 
-int main() {
+// int main() {
     // task 1
     // int n;
     // cin>>n;
@@ -193,4 +193,4 @@ int main() {
     //     }
     // }
     // cout << "Yes" << endl;
-}
+// }

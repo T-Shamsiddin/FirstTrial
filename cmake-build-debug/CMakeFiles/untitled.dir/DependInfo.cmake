@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/sh.tohirov/CLionProjects/FirstTrial/lab10.cpp" "CMakeFiles/untitled.dir/lab10.cpp.o" "gcc" "CMakeFiles/untitled.dir/lab10.cpp.o.d"
+  "/Users/sh.tohirov/CLionProjects/FirstTrial/lab11.cpp" "CMakeFiles/untitled.dir/lab11.cpp.o" "gcc" "CMakeFiles/untitled.dir/lab11.cpp.o.d"
   "/Users/sh.tohirov/CLionProjects/FirstTrial/lab3.cpp" "CMakeFiles/untitled.dir/lab3.cpp.o" "gcc" "CMakeFiles/untitled.dir/lab3.cpp.o.d"
   "/Users/sh.tohirov/CLionProjects/FirstTrial/lab4.cpp" "CMakeFiles/untitled.dir/lab4.cpp.o" "gcc" "CMakeFiles/untitled.dir/lab4.cpp.o.d"
   "/Users/sh.tohirov/CLionProjects/FirstTrial/lab5.cpp" "CMakeFiles/untitled.dir/lab5.cpp.o" "gcc" "CMakeFiles/untitled.dir/lab5.cpp.o.d"
