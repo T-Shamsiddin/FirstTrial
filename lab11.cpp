@@ -8,7 +8,7 @@
 #include <algorithm>
 using namespace std;
 
-int main() {
+// int main() {
     // MATRIX
 
     // task 1
@@ -255,4 +255,4 @@ int main() {
     // }
 
 
-}
+// }
