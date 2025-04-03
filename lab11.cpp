@@ -213,6 +213,11 @@ int main() {
     // task 5
     // string s;
     // cin>>s;
+    // fisrt option
+    // set<char> c(s.begin(), s.end());
+    // cout<<string(c.begin(), c.end())<<endl;
+
+    // second option
     // string p = "";
     // for (int i=0; i<s.length(); i++) {
     //     if (p.find(s[i]) == string::npos) {
