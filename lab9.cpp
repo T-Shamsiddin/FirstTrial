@@ -2,6 +2,7 @@
 // Created by Shamsiddin Tohirov on 13/03/25.
 //
 
+#include <cmath>
 #include <iostream>
 using namespace std;
 int task_one(int a, int b);

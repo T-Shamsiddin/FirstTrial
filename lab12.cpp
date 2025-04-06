@@ -14,7 +14,7 @@ void square(int *a) {
     *a = *a * *a;
 }
 
-int main() {
+// int main() {
 
     // task 1
     // int n;
@@ -103,5 +103,5 @@ int main() {
 
     // task 11
 
-    return 0;
-}
+//     return 0;
+// }
