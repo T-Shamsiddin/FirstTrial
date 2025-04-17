@@ -52,7 +52,7 @@ void square(int *a) {
     *a = *a * *a;
 }
 
-int main() {
+// int main() {
 
     // task 1
     // int n;
@@ -148,7 +148,7 @@ int main() {
     // }
     // int *data = a;
     // for (int i = 0; i < n; i++) {
-    //     if (*data >= a[i]) {
+    //     if (*data < a[i]) {
     //         data = &a[i];
     //     }
     // }
@@ -258,15 +258,15 @@ int main() {
     // }
 
     // task 20
-    int n;
-    cin >> n;
-    int a[n];
-    for (int i = 0; i < n; i++) {
-        cin >> a[i];
-    }
-    sortArray(a, n);
-    for (int i = 0; i < n; i++) {
-        cout << a[i] << " ";
-    }
-    return 0;
-}
+    // int n;
+    // cin >> n;
+    // int a[n];
+    // for (int i = 0; i < n; i++) {
+    //     cin >> a[i];
+    // }
+    // sortArray(a, n);
+    // for (int i = 0; i < n; i++) {
+    //     cout << a[i] << " ";
+    // }
+//     return 0;
+// }

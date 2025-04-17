@@ -125,7 +125,7 @@ void getNextDate(int d, int m, int y) {
     }
 }
 
-int main() {
+// int main() {
     // task 1
     // int choice;
     // int amount = 0;
@@ -299,4 +299,4 @@ int main() {
     // } while (choice == 'y' || choice == 'Y');
     // cout << "Program ended." << endl;
     // return 0;
-}
+// }

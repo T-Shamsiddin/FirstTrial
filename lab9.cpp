@@ -14,7 +14,7 @@ int countDigits(int n, int count);
 int sumOfDigits(int n, int sum);
 int power(int a, int b);
 int reverseDigits(int n, int result);
-// int isPolindrome(int n, int reverse);
+int isPolindrome(int n, int reverse);
 int isPrime(int n, int check);
 void hanoi(int n, char from, char to, char aux);
 
@@ -145,21 +145,21 @@ int reverseDigits(int n, int result) {
     }
 }
 
-// int isPolindrome(int n, int digits) {
-//     if (n<10) {
-//         return 0;
-//     }
-//     int first = n/int(pow(10, digits-1));
-//     int last = n%10;
-//     cout << first << " " << last << endl;
-//     if (first==last) {
-//         int number = (n % (int)pow(10, digits - 1)) / 10;
-//         cout << number << endl;
-//         return isPolindrome(number, digits-2);
-//     }else {
-//         return 1;
-//     }
-// }
+int isPolindrome(int n, int digits) {
+    if (n<10) {
+        return 0;
+    }
+    int first = n/int(pow(10, digits-1));
+    int last = n%10;
+    cout << first << " " << last << endl;
+    if (first==last) {
+        int number = (n % (int)pow(10, digits - 1)) / 10;
+        cout << number << endl;
+        return isPolindrome(number, digits-2);
+    }else {
+        return 1;
+    }
+}
 
 int isPrime(int n, int check) {
     if (abs(n)==2) {
