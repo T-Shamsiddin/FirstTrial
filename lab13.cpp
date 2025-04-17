@@ -2,14 +2,38 @@
 // Created by Shamsiddin Tohirov on 17/04/25.
 //
 #include <iostream>
+#include <float.h>
+#include <cstdlib>
+#include <ctime>
 using namespace std;
 
 void greet() {
-    cout << "Hello, welcome!" << endl;
+    cout << "Hello" << endl;
 }
 
 void bye() {
-    cout << "Goodbye, see you again!" << endl;
+    cout << "Goodbye" << endl;
+}
+
+// void add(int a, int b) {
+//     cout << a + b << endl;
+// }
+//
+// void multiply(int a, int b) {
+//     cout << a * b << endl;
+// }
+
+int add(int a, int b) {
+    return a + b;
+}
+
+int multiply(int a, int b) {
+    return a * b;
+}
+
+void result(int (*op)(int, int), int x, int y) {
+    int result = op(x, y);
+    cout << "Result: " << result << endl;
 }
 int main() {
     // task1
@@ -152,6 +176,19 @@ int main() {
     // funcPtr();
 
     // task 16
+    // int a = 1, b = 1;
+    // void (*fptr)(int, int);
+    // fptr = add;
+    // fptr(a, b);
+    //
+    // fptr = multiply;
+    // fptr(a, b);
+
+    // task 17
+    // int a, b;
+    // cin >> a >> b;
+    // result(add, a, b);
+    // result(multiply, a, b);
 
     return 0;
 }
