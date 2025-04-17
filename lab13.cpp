@@ -1,5 +1,5 @@
 //
-// Created by Shamsiddin Tohirov on 17/04/25.
+// Created by Shamsiddin Tohirov on 10/04/25.
 //
 #include <iostream>
 #include <float.h>
