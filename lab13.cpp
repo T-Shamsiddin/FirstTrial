@@ -7,13 +7,13 @@
 #include <ctime>
 using namespace std;
 
-void greet() {
-    cout << "Hello" << endl;
-}
-
-void bye() {
-    cout << "Goodbye" << endl;
-}
+// void greet() {
+//     cout << "Hello" << endl;
+// }
+//
+// void bye() {
+//     cout << "Goodbye" << endl;
+// }
 
 // void add(int a, int b) {
 //     cout << a + b << endl;
@@ -22,20 +22,20 @@ void bye() {
 // void multiply(int a, int b) {
 //     cout << a * b << endl;
 // }
-
-int add(int a, int b) {
-    return a + b;
-}
-
-int multiply(int a, int b) {
-    return a * b;
-}
-
-void result(int (*op)(int, int), int x, int y) {
-    int result = op(x, y);
-    cout << "Result: " << result << endl;
-}
-int main() {
+//
+// int add(int a, int b) {
+//     return a + b;
+// }
+//
+// int multiply(int a, int b) {
+//     return a * b;
+// }
+//
+// void result(int (*op)(int, int), int x, int y) {
+//     int result = op(x, y);
+//     cout << "Result: " << result << endl;
+// }
+// int main() {
     // task1
     // int arr[5] = {10, 20, 30, 40, 50};
     // int* a = arr;
@@ -190,5 +190,5 @@ int main() {
     // result(add, a, b);
     // result(multiply, a, b);
 
-    return 0;
-}
+//     return 0;
+// }
